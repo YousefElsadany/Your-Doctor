@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1065823-a9dd-4c28-9122-8edf31123c0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Doctor-Project-last_collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/main/java/com/example/doctor_project/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/allergy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/andolgi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/baby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/brain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/broken_bone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/calender.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/doctorsearch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/ear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/eyes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/human.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/lungs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/nose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/place.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/rotten.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/skin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/icons/women.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/about_us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/booked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/contact_us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/doc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/doctor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/doctor1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/doctor2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/doctor3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/doctor4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/editprofileicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/goicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/helpicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/invitefriendicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/logos1@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/logos2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/logosplash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/logouticon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/minilogo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/myfavoritesicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/profileimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/settingsicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/terms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/vectors02@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/welcome_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/welcome_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/assets/images/welcome_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Controller/appointment_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Controller/doctor_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Controller/favourite_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Controller/patient_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/About Us Screen/about_us_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/About Us Screen/terms_and_conditions_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Appointments Screen/AppointmentCofirmation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Appointments Screen/appointment_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Appointments Screen/appointment_screen_widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Contact Us Screen/contact_us_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Contact Us Screen/contact_us_widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Favorite Doctors Screen/favorite_doctors_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Favorite Doctors Screen/favorite_doctors_widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Login Screen/login_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Login Screen/login_screen_widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/ProfilePages/DocProfile/DocProfileWigets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/ProfilePages/DocProfile/view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/ProfilePages/UserProfile/userProfileWigets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/ProfilePages/UserProfile/view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Welcome Screens/TermsAndConditions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Welcome Screens/splash.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Welcome Screens/welcome_screen_1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Welcome Screens/welcome_screen_2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Welcome Screens/welcome_screen_3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/Welcome Screens/welcome_screen_widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/bottom_navigation_bar/bottom_navigation_bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/component/component.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/doctor_browser/doctor_browser.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/doctor_browser/doctor_browser_widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/edit_profile_screen/edit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/help_screen/help.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/help_screen/helpWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/register/ValidatedCode/ValidationCodeWidgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/register/ValidatedCode/view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/register/forgotPassword.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/register/registerView.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/register/updatePassword.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/Screens/specialties_screen/SpecialistSearch.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/appointment_calender.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/cache_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/cal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/common_widgets/MyWidgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/common_widgets/common_widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/models/AppointmentModel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/models/doctor_card_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/models/favourite_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/models/patient_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/lib/search.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctor-Project-last_collection/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1v0pBuUSw8PqGNrECnat8fNtQ1h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Doctor-Project-last_collection/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1065823-a9dd-4c28-9122-8edf31123c0e" name="Default Changelist" comment="" />
+      <created>1625708729127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625708729127</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="89" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625708965696">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="89" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1625708965696" />
+    <state width="1211" height="269" key="GridCell.Tab.0.bottom" timestamp="1625712608011">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1211" height="269" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1625712608011" />
+    <state width="1211" height="269" key="GridCell.Tab.0.center" timestamp="1625712608011">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1211" height="269" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1625712608011" />
+    <state width="1211" height="269" key="GridCell.Tab.0.left" timestamp="1625712608011">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1211" height="269" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1625712608011" />
+    <state width="1211" height="269" key="GridCell.Tab.0.right" timestamp="1625712608011">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1211" height="269" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1625712608011" />
+    <state x="136" y="150" key="SettingsEditor" timestamp="1625708896196">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="136" y="150" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1625708896196" />
+  </component>
+</project>
